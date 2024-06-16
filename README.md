@@ -1,3 +1,8 @@
+TARİFKA
+-------------------
+Here’s a project demonstrating a recipe application built with React Native. This application displays food categories on the opening screen. When a category is selected, it shows a list of recipes in that category. Selecting a recipe leads to a detail page with an option to watch a YouTube video of the recipe.
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,3 +82,9 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+  #ScreenShots
+  ----------------------
+  
+     https://github.com/akgullberk/React-Native-Tarifka/assets/108866525/7ccb5cc9-c0e2-4c87-8474-0744eabac9e4
+
